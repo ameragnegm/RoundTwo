@@ -4,15 +4,14 @@
     {
         static void Main(string[] args)
         {
-            BankAccount B1 = new BankAccount(200 ,"Lily" , 9000);
-            Console.WriteLine($"{B1.AccountNumber}");
-   
-            B1.Deposit(400);
-         
+            //BankAccount B1 = new BankAccount(200 ,"Lily" , 9000);
+            //Console.WriteLine($"{B1.AccountNumber}");
+            //B1.Deposit(400);
+       
             //Product product = new Product("chips" , 20 , 500);
             //product.UpdateStock(30);
             //Console.WriteLine($" the stock is {product.StockQuantity}");
-            //Console.WriteLine($" the output of available method is  {product.Isavailable}");
+            //Console.WriteLine($"{product.Isavailable}");
             //product.Price = 100;
             //Console.WriteLine($" the  price is  {product.Price}");
 
