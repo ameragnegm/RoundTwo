@@ -24,8 +24,7 @@ namespace Properties
         public int Age
         {
             get { 
-            
-                return    DateTime.Now.Year - Year;
+                return  DateTime.Now.Year - Year;
             }
         }
         public void Drive( int distance) {
