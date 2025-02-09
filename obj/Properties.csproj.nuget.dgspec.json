@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\amera\\source\\repos\\Bank Account\\Properties\\Properties.csproj": {}
+    "C:\\Users\\amera\\source\\repos\\Properties\\Properties\\Properties.csproj": {}
   },
   "projects": {
-    "C:\\Users\\amera\\source\\repos\\Bank Account\\Properties\\Properties.csproj": {
+    "C:\\Users\\amera\\source\\repos\\Properties\\Properties\\Properties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\amera\\source\\repos\\Bank Account\\Properties\\Properties.csproj",
+        "projectUniqueName": "C:\\Users\\amera\\source\\repos\\Properties\\Properties\\Properties.csproj",
         "projectName": "Properties",
-        "projectPath": "C:\\Users\\amera\\source\\repos\\Bank Account\\Properties\\Properties.csproj",
+        "projectPath": "C:\\Users\\amera\\source\\repos\\Properties\\Properties\\Properties.csproj",
         "packagesPath": "C:\\Users\\amera\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\amera\\source\\repos\\Bank Account\\Properties\\obj\\",
+        "outputPath": "C:\\Users\\amera\\source\\repos\\Properties\\Properties\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

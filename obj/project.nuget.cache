@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "trA+LxBHvZs=",
+  "dgSpecHash": "BviKxhkB5qU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\amera\\source\\repos\\Bank Account\\Properties\\Properties.csproj",
+  "projectFilePath": "C:\\Users\\amera\\source\\repos\\Properties\\Properties\\Properties.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\amera\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
   ],
